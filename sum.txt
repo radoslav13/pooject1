@@ -5,4 +5,16 @@
 5. After that compiled the problem with: javac the name of the file and adding (SumOfNumbers).java at the end.
 Finally I typed java and the name of the program - SumOfNumbers. After that I typed the two numbers on the console and then the program printed the result on the console.
 
+
+
+
+
+
+
+
+
+
+
+Did it work??
+
 I did add the program creating PDFs to a jar file but I could not start it with command prompt, so I haven't uploaded that.
