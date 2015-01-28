@@ -1,5 +1,5 @@
 1. Open command prompt menu 
-2. type java -version and press enter
+2. type java -version and press egkd flfkdfldkfldfkdl.
 3. In my case the java vession did not appear on the console so I had to change the path to the program from my computer/properties/advanced system settings.
 4. Then I wrote cd and the location where my program is situated.
 5. After that compiled the problem with: javac the name of the file and adding (SumOfNumbers).java at the end.
@@ -7,10 +7,7 @@ Finally I typed java and the name of the program - SumOfNumbers. After that I ty
 
 
 
-
-
-
-
+Andn now what?
 
 
 
